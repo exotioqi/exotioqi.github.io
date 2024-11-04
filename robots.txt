@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exotioqi.github.io/WfJ/sitemap_index.txt
+Sitemap: https://exotioqi.github.io/mJh/sitemap_index.txt
+Sitemap: https://exotioqi.github.io/rvS/sitemap_index.txt
+Sitemap: https://exotioqi.github.io/wgD/sitemap_index.txt
